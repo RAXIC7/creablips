@@ -1,0 +1,13 @@
+What is this resource?
+This resource has been designed to make it easy, quick and free to set up blips on the map.
+
+You will find a “config.lua” file where you will find a fivem docs link for the blips and colors codes.
+
+How to install it?
+
+- Download the file from the link: GitHub - fnaticSQUITCH/creablips
+- Put the file in your resources and make sure you have written in the “server.cfg” “ensure sq_créablips”.
+- Restart your server and the script is installed.
+- No command is needed, the blips will be displayed directly
+
+Developer @SQUITCH
